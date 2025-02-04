@@ -1,6 +1,5 @@
 # Composicion-del-ADN
-*El ADN está compuesto por las siguientes cuatro bases: 
-
+El ADN está compuesto por las siguientes cuatro bases: 
 Adenina (A) 
 Citosina (C) 
 Guanina (G) 
